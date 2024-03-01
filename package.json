@@ -1,0 +1,27 @@
+{
+  "name": "graduation-project",
+  "version": "1.0.0",
+  "description": "This is a graduation project. Design and implementation of visualization teaching tool for data structure algorithm based on Electron framework.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FederoZed/graduation-project.git"
+  },
+  "keywords": [
+    "graduation",
+    "data",
+    "structure",
+    "algorithm",
+    "visualization",
+    "electron"
+  ],
+  "author": "federo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FederoZed/graduation-project/issues"
+  },
+  "homepage": "https://github.com/FederoZed/graduation-project#readme"
+}
